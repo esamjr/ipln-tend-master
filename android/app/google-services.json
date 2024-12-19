@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298000089490",
+    "project_id": "sistem-presensi-28d61",
+    "storage_bucket": "sistem-presensi-28d61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298000089490:android:91a2193edbc83d6dbf414b",
+        "android_client_info": {
+          "package_name": "id.agldms.sistem_presensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxS7zzz91Pri9XioSJab3c3oLjanMKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
